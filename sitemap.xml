@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://slibbe.github.io/about/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://slibbe.github.io/post/2nd_post/</loc>
+    <lastmod>2017-08-30T00:44:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://slibbe.github.io/post/post/</loc>
+    <lastmod>2017-08-29T17:46:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://slibbe.github.io/docs/example-configs/</loc>
+    <lastmod>2017-06-30T23:49:34-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://slibbe.github.io/docs/site/alert/</loc>
+  </url>
+  
+  <url>
+    <loc>https://slibbe.github.io/docs/site/analytics/</loc>
+  </url>
+  
+  <url>
+    <loc>https://slibbe.github.io/docs/site/appearance/</loc>
+  </url>
+  
+  <url>
+    <loc>https://slibbe.github.io/docs/pages/authorbox/</loc>
+  </url>
+  
+  <url>
+    <loc>https://slibbe.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://slibbe.github.io/docs/sidebar/category-list/</loc>
+  </url>
+  
+  <url>
+    <loc>https://slibbe.github.io/docs/pages/comments/</loc>
+  </url>
+  
+  <url>
+    <loc>https://slibbe.github.io/docs/pages/custom-list-pages/</loc>
+  </url>
+  
+  <url>
+    <loc>https://slibbe.github.io/categories/documentation/</loc>
+    <lastmod>2017-06-30T23:49:34-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://slibbe.github.io/docs/</loc>
+    <lastmod>2017-06-30T23:49:34-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://slibbe.github.io/docs/sidebar/events/</loc>
+  </url>
+  
+  <url>
+    <loc>https://slibbe.github.io/docs/shortcodes/handwriting/</loc>
+  </url>
+  
+  <url>
+    <loc>https://slibbe.github.io/docs/shortcodes/static/</loc>
+  </url>
+  
+  <url>
+    <loc>https://slibbe.github.io/docs/shortcodes/members/</loc>
+  </url>
+  
+  <url>
+    <loc>https://slibbe.github.io/docs/pages/netlify-forms/</loc>
+  </url>
+  
+  <url>
+    <loc>https://slibbe.github.io/docs/pages/next-prev-page/</loc>
+  </url>
+  
+  <url>
+    <loc>https://slibbe.github.io/docs/pages/</loc>
+  </url>
+  
+  <url>
+    <loc>https://slibbe.github.io/docs/sidebar/patreon-banner/</loc>
+  </url>
+  
+  <url>
+    <loc>https://slibbe.github.io/post/</loc>
+    <lastmod>2017-08-30T00:44:36+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://slibbe.github.io/docs/sidebar/recent-posts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://slibbe.github.io/docs/pages/responsive-tables/</loc>
+  </url>
+  
+  <url>
+    <loc>https://slibbe.github.io/docs/sidebar/search/</loc>
+  </url>
+  
+  <url>
+    <loc>https://slibbe.github.io/docs/shortcodes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://slibbe.github.io/docs/sidebar/</loc>
+  </url>
+  
+  <url>
+    <loc>https://slibbe.github.io/docs/site/</loc>
+  </url>
+  
+  <url>
+    <loc>https://slibbe.github.io/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://slibbe.github.io/docs/site/social-icons/</loc>
+  </url>
+  
+  <url>
+    <loc>https://slibbe.github.io/docs/pages/summaries/</loc>
+  </url>
+  
+  <url>
+    <loc>https://slibbe.github.io/survey/</loc>
+  </url>
+  
+  <url>
+    <loc>https://slibbe.github.io/docs/sidebar/tag-list/</loc>
+  </url>
+  
+  <url>
+    <loc>https://slibbe.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

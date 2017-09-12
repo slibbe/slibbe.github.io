@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slibbe&#39;s new Hugo site</title>
+    <link>https://slibbe.github.io/</link>
+    <description>Recent content on Slibbe&#39;s new Hugo site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://slibbe.github.io/" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Post</title>
+      <link>https://slibbe.github.io/post/2nd_post/</link>
+      <pubDate>Wed, 30 Aug 2017 00:44:36 +0200</pubDate>
+      
+      <guid>https://slibbe.github.io/post/2nd_post/</guid>
+      <description>This is my second Post Test</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Post</title>
+      <link>https://slibbe.github.io/post/post/</link>
+      <pubDate>Tue, 29 Aug 2017 17:46:36 +0200</pubDate>
+      
+      <guid>https://slibbe.github.io/post/post/</guid>
+      <description>This is my first Post The skeleton of the site is an example by the theme provider Michael Bryant.</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Example Configs</title>
+      <link>https://slibbe.github.io/docs/example-configs/</link>
+      <pubDate>Fri, 30 Jun 2017 23:49:34 -0700</pubDate>
+      
+      <guid>https://slibbe.github.io/docs/example-configs/</guid>
+      <description>To help you set up your site with BluestNight, you can download a template config.toml. If you use a server with Nginx, you can also download a template configuration file to place in /etc/nginx/conf.d/.
+If you have any experience writing configuration files for Apache servers or .htaccess files, please contribute to this issue on GitLab.</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>About Hugo</title>
+      <link>https://slibbe.github.io/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://slibbe.github.io/about/</guid>
+      <description>Hugo is a static site engine written in Go.
+It makes use of a variety of open source projects including:
+ Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
+Setup Some fun facts about Hugo:
+ Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+    </item>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  </channel>
+</rss>
